@@ -90,8 +90,8 @@ ram.runtime = "50M"
     videobridge.default = 10000
     videobridge.exposed = "UDP"
     component.default = 5347
-    jvb_priv.default = 9090
-    jvb_pub.default = 8080
+    jvb_priv.default = 8080
+    jvb_pub.default = 9090
     jicofo.default = 8888
 
     [resources.apt]
